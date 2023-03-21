@@ -1,3 +1,6 @@
+# Projection of 3D objects onto 2D screen in games
+# Author Tushar Mahat, Nabin Bhandari
+
 import pygame
 import numpy as np
 from math import *
