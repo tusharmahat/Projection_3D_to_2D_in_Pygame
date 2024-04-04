@@ -52,5 +52,3 @@ Include screenshots or GIFs showcasing your 3D visualization in the README.md fi
 ## Contributing
 
 Contributions to this project are welcome. Feel free to fork the repository, make improvements, and submit pull requests.
-
-Feel free to customize the above README.md template with additional information, screenshots, or GIFs to enhance the presentation of your 3D visualization project.
