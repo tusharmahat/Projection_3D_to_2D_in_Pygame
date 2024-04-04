@@ -2,9 +2,7 @@
 
 This project demonstrates the projection of 3D objects onto a 2D screen using Pygame. It allows you to visualize and interact with 3D objects in a 2D space.
 
-<img src="demo1.gif" alt="Pingpong Game GIF 1" width="500" height="400">
-
-<img src="demo2.gif" alt="Pingpong Game GIF 2" width="500" height="400">
+<img src="demo1.gif" alt="Pingpong Game GIF 1" width="500" height="400">  <img src="demo2.gif" alt="Pingpong Game GIF 2" width="500" height="400">
 
 ## Authors
 - Tushar Mahat
